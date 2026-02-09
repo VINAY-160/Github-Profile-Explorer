@@ -8,10 +8,12 @@
   A clean and minimal web application to search and explore GitHub profiles using the GitHub REST API.
 </p>
 
+<p align="center">
+  🔗 <a href="https://github-profile-explorer-vm-dev-studio.netlify.app" target="_blank">Live Demo</a>
+</p>
+
 ---
-Website: https://github-profile-explorer-vm-dev-studio.netlify.app
-Topics: javascript, frontend, github-api, web-project, portfolio
----
+
 ## 📌 Description
 
 GitHub Profile Explorer is built to practice real-world frontend development concepts using vanilla technologies.  
