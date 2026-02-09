@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GitHub Profile Explorer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="header">
+      <img
+        src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+        alt="GitHub"
+        class="logo"
+      />
+      <h1>GitHub Profile Explorer</h1>
+    </header>
+
+    <div class="container">
+      <div class="search-section">
+        <input id="searchInput" type="text" placeholder="Search GitHub username" />
+        <button id="searchBtn">Search</button>
+      </div>
+
+      <div class="status"></div>
+        <!-- bio
+             pic 
+         -->
+      <section class="profile-card">
+        <div class="profile-avatar"></div>
+        <div class="profile-info"></div>
+      </section>
+
+      <section class="repos-section">
+        <h2>Repositories</h2>
+        <div class="repos-container"></div>
+      </section>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
