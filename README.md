@@ -9,7 +9,9 @@
 </p>
 
 ---
-
+Website: https://github-profile-explorer-vm-dev-studio.netlify.app
+Topics: javascript, frontend, github-api, web-project, portfolio
+---
 ## 📌 Description
 
 GitHub Profile Explorer is built to practice real-world frontend development concepts using vanilla technologies.  
